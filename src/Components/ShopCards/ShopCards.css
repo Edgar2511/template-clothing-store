@@ -1,0 +1,52 @@
+.itemQuantity {
+  padding: 0.15px 16px;
+}
+
+.itemQuantity p {
+  margin: 15px 0;
+  font-size: 15px;
+  opacity: 0.6;
+}
+
+.cardsContainer {
+  display: flex;
+  max-height: 665px;
+  flex-flow: row wrap;
+  align-content: flex-start;
+}
+
+.cardsContainer div {
+  position: relative;
+  max-width: 950px;
+  margin: 0 auto;
+  background-color: yellow;
+  background-color: #fff;
+  max-width: 200px;
+  /* margin: 10px; */
+  /* text-align: center; */
+}
+
+.cardsContainer div img {
+  max-width: 205px;
+  max-height: 255px;
+}
+
+.title {
+  margin-top: 15px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.price {
+  margin-bottom: 15px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.cardsContainer div span {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #000;
+  color: #fff;
+  padding: 0 8px;
+  font-family: "Montserrat", sans-serif;
+}

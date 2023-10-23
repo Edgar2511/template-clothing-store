@@ -1,0 +1,32 @@
+.Subscribe {
+  padding: 32px 16px;
+  background-color: #000;
+}
+
+.subscribeTitle {
+  margin: 10px 0;
+  font-size: 36px;
+  font-family: "Montserrat", sans-serif !important;
+  color: #fff;
+}
+
+.offerSection {
+  margin: 15px 0;
+  font-size: 15px;
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+}
+
+.Subscribe input {
+  width: 100%;
+  padding: 8px;
+}
+
+.button {
+  background-color: #f44336;
+  color: #fff;
+  margin: 16px 0;
+  border: none;
+  cursor: pointer;
+  padding: 8px 16px;
+}

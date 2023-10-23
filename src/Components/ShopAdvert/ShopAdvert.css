@@ -1,0 +1,43 @@
+.ShopAdvertImg {
+  background-image: url("https://www.w3schools.com/w3images/jeans.jpg");
+  max-width: 918px;
+  width: 100%;
+  height: 612px;
+}
+
+.ShopAdvert {
+  padding: 24px 48px;
+}
+
+.ShopAdvert h1 {
+  font-family: "Montserrat", sans-serif !important;
+  margin: 10px 0;
+  font-size: 64px;
+  color: #ffffff;
+}
+
+.collectionYear {
+  margin: 10px 0;
+  font-size: 36px;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
+.shopButton {
+  margin: 25px 0;
+}
+
+.shopButton a {
+  margin: 15px 0;
+  background-color: #000;
+  color: #fff;
+  padding: 12px 24px;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+}
+
+.shopButton a:hover {
+  background-color: gray;
+  color: #000;
+}

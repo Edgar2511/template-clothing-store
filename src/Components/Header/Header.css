@@ -1,0 +1,16 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.24px 16px;
+  color: #000000;
+}
+
+.Header div {
+  display: flex;
+}
+
+.Header div p {
+  margin: 24px;
+  font-size: 24px;
+  font-family: "Montserrat", sans-serif;
+}
